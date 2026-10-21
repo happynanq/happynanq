@@ -8,7 +8,7 @@ I've been learnign to code for 8 years, learning algorithms(for IOI), ML, but fo
 
 * 🌍  I'm based in Russia, Krasnoyarsk
 * ✉️  You can contact me at [https://t.me/untitleness](mailto:https://t.me/untitleness)
-* 🧠  I'm currently learning Frontend middle position and starting to learn WEB3
+* 🧠  I'm Frontend middle position, iGaming, betting
 * 👥  I'm looking to collaborate on any work
 
 <p align="left">
